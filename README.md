@@ -33,6 +33,8 @@ You can clone either track directly using the branch flag (`-b`):
 ```bash
 git clone -b CSE1101-L [https://github.com/snaaaho/CSE-1101.git](https://github.com/snaaaho/CSE-1101.git)
 
+---
+
 ### 2. Clone the Theory Track (`CSE1101-T`)
 ```bash
 git clone -b CSE1101-T [https://github.com/snaaaho/CSE-1101.git](https://github.com/snaaaho/CSE-1101.git)
